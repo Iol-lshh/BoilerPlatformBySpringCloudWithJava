@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: assign-service

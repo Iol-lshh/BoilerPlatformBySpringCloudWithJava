@@ -4,6 +4,8 @@
 - GitHub
 - java 17
 - Spring MVC
+- Spring Cloud
+	Eureka, Config, GateWay
 - Vue.js or React   
 	- axios, webpack, lodash
 - MariaDB
